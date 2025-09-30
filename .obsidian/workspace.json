@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class works/знакомство с css.md",
+                "file": "Стили связанные с текстом.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "знакомство с css"
+              "title": "Стили связанные с текстом"
             },
             "group": "24281facff367bbe"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class works/знакомство с css.md",
+                "file": "Стили связанные с текстом.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "знакомство с css"
+              "title": "Стили связанные с текстом"
             },
             "group": "24281facff367bbe"
           }
@@ -179,8 +179,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -189,8 +189,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -224,12 +224,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 317.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,11 +248,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c79967850990b7b",
+  "active": "a02e570300223417",
   "lastOpenFiles": [
     "проводник.md",
-    "home works/ДЗ знакомство с css.md",
+    "Стили связанные с текстом.md",
     "class works/знакомство с css.md",
+    "home works/ДЗ знакомство с css.md",
     "home works/ДЗ начало работы с версткой.md",
     "class works/начало работы с версткой.md",
     "PowerToys_Paste_20250920113320 1.txt",
@@ -297,7 +297,6 @@
     "SOURSES/Item_waterstone.webp",
     "SOURSES/Spell_summon_egg.webp",
     "SOURSES/Item_brimstone.webp",
-    "этапы/скормить солнцу яйца.md",
     "этапы/приоритетность перков.canvas",
     "Excalidraw"
   ]

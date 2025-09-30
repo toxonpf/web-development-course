@@ -4,44 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "5e208f0997b126b2",
+        "id": "08a0991428066c58",
         "type": "tabs",
         "children": [
           {
-            "id": "a02e570300223417",
+            "id": "3eaca119000f258b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Стили связанные с текстом.md",
+                "file": "проводник.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Стили связанные с текстом"
+              "title": "проводник"
             },
-            "group": "24281facff367bbe"
+            "group": "0c6f75deb5450fb0"
           }
         ]
       },
       {
-        "id": "c731dde24a3836ea",
+        "id": "5c3765f88bd63c70",
         "type": "tabs",
         "children": [
           {
-            "id": "4c79967850990b7b",
+            "id": "a83018d2c5457d31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Стили связанные с текстом.md",
+                "file": "проводник.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Стили связанные с текстом"
+              "title": "проводник"
             },
-            "group": "24281facff367bbe"
+            "group": "0c6f75deb5450fb0"
           }
         ]
       }
@@ -248,13 +248,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a02e570300223417",
+  "active": "3eaca119000f258b",
   "lastOpenFiles": [
+    "class works/Стили связанные с текстом.md",
     "проводник.md",
-    "Стили связанные с текстом.md",
-    "class works/знакомство с css.md",
+    "home works/ДЗ Стили связанные с текстом.md",
     "home works/ДЗ знакомство с css.md",
     "home works/ДЗ начало работы с версткой.md",
+    "class works/знакомство с css.md",
     "class works/начало работы с версткой.md",
     "PowerToys_Paste_20250920113320 1.txt",
     "PowerToys_Paste_20250920113320.txt",
@@ -291,7 +292,6 @@
     "этапы/забираем ноту.md",
     "инф/предметы/Kuulokivi.md",
     "SOURSES/Item_musicstone.webp",
-    "этапы/скормить все kivi солнцу.md",
     "SOURSES/Item_stonestone 1.webp",
     "SOURSES/Item_kakke.webp",
     "SOURSES/Item_waterstone.webp",
